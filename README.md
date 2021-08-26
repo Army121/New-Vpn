@@ -1,2 +1,2 @@
 # -
-Just another repository
+收集到的一些科学上网订阅地址，有些可能失效了，一个个尝试
